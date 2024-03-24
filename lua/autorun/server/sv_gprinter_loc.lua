@@ -4,7 +4,7 @@ local phrases = {
     en = {
         ["printer.spawned_golden"]="You just got a golden printer!",
         ["printer.cop_destroy"]="You got back $4000 for destroying a printer!",
-        ["printer.took"]="You took",
+        ["printer.took1"]="You took",
         ["printer.took2"]="from the printer",
         ["printer.golden"]=" golden",
 
